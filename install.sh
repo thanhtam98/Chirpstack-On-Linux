@@ -63,7 +63,3 @@ systemctl restart chirpstack-application-server
 # start chirpstack-gateway-bridge
 systemctl restart chirpstack-gateway-bridge
 
-cd packetforwarder
-make
-
-
